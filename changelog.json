@@ -3,14 +3,21 @@
     "version": "1.3",
     "date": "2026-07-13",
     "changes": [
-      "Word count field \u2014 track word count alongside page count, especially useful for ebooks (e.g. via Calibre)",
-      "Owned bookmark toggle now appears in Bookshelf, Series and Author views",
-      "Memory Check now scores against your own book notes \u2014 no internet connection required",
-      "Search now finds books even when you include leading articles (The, A, An)",
-      "Sort direction toggle \u2014 switch between ascending and descending order in the library",
-      "Series completion \u2014 series auto-marks as complete when all books are read, with manual override and filter options",
-      "In-app update notifications \u2014 you'll now see a banner when a new version is available",
-      "Changelog \u2014 click the version number in Settings to see what's new"
+      "Owned bookmark toggle now appears on every library view \u2014 Cards, Table, Bookshelf, Series, Authors, Shelves, Owned, and Favourites",
+      "New dedicated Owned view and Favourites view in the library toolbar",
+      "Bulk edit \u2014 select multiple books and update status, rating, genre, tags, or delete in one action",
+      "Library scroll position is now preserved after editing a book \u2014 returns to exactly where you left off",
+      "Word count field added alongside page count \u2014 especially useful for ebooks (e.g. via Calibre)",
+      "Multiple re-read dates \u2014 record start date, finish date, and notes for every time you re-read a book",
+      "Drag-and-drop cover upload \u2014 drag an image from your computer or spreadsheet, or paste from clipboard (Ctrl+V)",
+      "Spine color reset button \u2014 restores the auto-extracted dominant cover color if you have changed it manually",
+      "Series completion \u2014 series auto-marks as Complete when all books are read, with manual override; filter by Ongoing First or Ongoing Only",
+      "Memory Check now scores against your own book notes \u2014 no internet connection required; the more detail you add, the richer the quiz",
+      "View Last Results button on Book Memory \u2014 review your most recent quiz without starting a new session",
+      "Search now ignores leading articles \u2014 searching 'Persian' finds 'The Persian'",
+      "Sort direction toggle \u2014 switch between ascending and descending order with the \u2191/\u2193 button",
+      "Update notifications \u2014 a banner appears when a new version is available",
+      "Changelog \u2014 click the version number in Settings to see what changed in each version"
     ]
   },
   {
