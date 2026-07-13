@@ -1,0 +1,31 @@
+[
+  {
+    "version": "0.1.3",
+    "date": "2026-07-13",
+    "changes": [
+      "Fixed series title truncation in book cards",
+      "Added word count field (useful for ebooks via Calibre)",
+      "Fixed list view column alignment across all window sizes",
+      "Added owned bookmark toggle to spine, series and author views",
+      "Memory Check now scores against your own book notes \u2014 no internet needed",
+      "Search now finds books with leading articles (The, A, An)",
+      "Added sort direction toggle (ascending/descending) to library",
+      "Series auto-marks as complete when all books are read",
+      "Added series sort options: All / Ongoing First / Ongoing Only",
+      "Added in-app update notifications for new versions",
+      "Version number now shows Beta badge in Settings"
+    ]
+  },
+  {
+    "version": "0.1.2",
+    "date": "2026-06-28",
+    "changes": [
+      "Initial public beta release",
+      "Book library with card, list, bookshelf, series and author views",
+      "Reading journal and quotes tracker",
+      "Book Memory with spaced repetition review system",
+      "Re-Read Radar for tracking books to revisit",
+      "Customisable accent colour and dark mode"
+    ]
+  }
+]
