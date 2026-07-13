@@ -15,7 +15,7 @@
   },
   {
     "version": "1.2",
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "changes": [
       "Drag-to-reorder your library \u2014 switch to Sort: Manual Order in Cards, Table, or Bookshelf view",
       "Custom shelves \u2014 create named shelves like 'Favourites', 'Summer Reads', 'Lent Out'",
@@ -38,7 +38,14 @@
   },
   {
     "version": "1.1",
-    "date": "2026-06-01",
+    "date": "2026-06-20",
+    "changes": [
+      "Fixed macOS installation files \u2014 resolves issues with the app not opening on Mac"
+    ]
+  },
+  {
+    "version": "1.0",
+    "date": "2026-06-17",
     "changes": [
       "Initial public launch",
       "Book library with card, list, bookshelf, series and author views",
