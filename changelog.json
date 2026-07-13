@@ -1,6 +1,6 @@
 [
   {
-    "version": "0.1.3",
+    "version": "1.3",
     "date": "2026-07-13",
     "changes": [
       "Fixed series title truncation in book cards",
@@ -13,14 +13,38 @@
       "Series auto-marks as complete when all books are read",
       "Added series sort options: All / Ongoing First / Ongoing Only",
       "Added in-app update notifications for new versions",
+      "Added in-app changelog (click the version number in Settings)",
       "Version number now shows Beta badge in Settings"
     ]
   },
   {
-    "version": "0.1.2",
+    "version": "1.2",
     "date": "2026-06-28",
     "changes": [
-      "Initial public beta release",
+      "Drag-to-reorder your library \u2014 switch to Sort: Manual Order in Cards, Table, or Bookshelf view",
+      "Custom shelves \u2014 create named shelves like 'Favourites', 'Summer Reads', 'Lent Out'",
+      "Find and remove duplicate books \u2014 Settings \u2192 Library & Data \u2192 Scan for Duplicates",
+      "Dominant Cover Color spine style \u2014 spines take on each book's most prominent cover colour",
+      "Add books to a series from the Series view without opening each book individually",
+      "Customisable dashboard layout \u2014 drag and resize every widget on the Home dashboard",
+      "Barcode scanner support \u2014 scan any book's ISBN barcode to auto-fill title, author, and cover",
+      "Six reading statuses \u2014 added Paused and Re-reading alongside existing statuses",
+      "Memory checks for every book you've started (not just finished books)",
+      "Tag and Audience Age filters \u2014 filter by Tag, Audience Age, Status, and Genre combined",
+      "Favourite from any view \u2014 heart icon on cards, table rows, and bookshelf spines",
+      "Favourites First sort option",
+      "Narrator field for audiobooks",
+      "Tags on journal entries",
+      "Genre is now a structured dropdown field",
+      "Edit entry date in the reading journal after saving",
+      "Date Started/Finished now correctly handled after Goodreads import"
+    ]
+  },
+  {
+    "version": "1.1",
+    "date": "2026-06-01",
+    "changes": [
+      "Initial public launch",
       "Book library with card, list, bookshelf, series and author views",
       "Reading journal and quotes tracker",
       "Book Memory with spaced repetition review system",
