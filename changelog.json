@@ -1,5 +1,24 @@
 [
   {
+    "version": "1.4",
+    "date": "2026-08-03",
+    "changes": [
+      "Book format multi-select — a book can now be marked as Physical, eBook, Audiobook, or any combination; select multiple formats as chips in Add/Edit Book",
+      "Editable challenges — challenges can now be edited after creation; click the Edit button on any challenge detail view",
+      "Task-based challenge type — new Pick One challenge type where each item has a rich description and three reading tasks; complete any one task to mark the item done (great for themed challenges like album or artist reading lists)",
+      "Image upload in Quotes — add an optional screenshot or image to any quote or highlight alongside the text; paste from clipboard, drag and drop, or click to browse",
+      "Custom content warnings — type your own content warning tags in Add/Edit Book; tags are saved and suggested as a dropdown next time",
+      "Home dashboard modules are now clickable — Books Read filters the library to read books, Currently Reading filters to in-progress books, Rating sorts by highest rating, Series navigates to series view, Favorites navigates to favorites view",
+      "Fixed: Delete All Data in Settings now correctly clears all books, quotes, and characters",
+      "Fixed: Library no longer resets to page 1 after editing a book and returning",
+      "Fixed: Duplicate book detection now shows consistent results on every scan",
+      "Fixed: Search bar in the library is now always clickable and typeable",
+      "Fixed: Challenges book search now correctly shows your library (was always empty after the storage migration)",
+      "Fixed: Add to Challenge button on book pages now works correctly",
+      "Fixed: Mac window drag now works from the sidebar header area"
+    ]
+  },
+  {
     "version": "1.3",
     "date": "2026-07-21",
     "changes": [
