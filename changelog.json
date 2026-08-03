@@ -12,10 +12,7 @@
       "Fixed: Delete All Data in Settings now correctly clears all books, quotes, and characters",
       "Fixed: Library no longer resets to page 1 after editing a book and returning",
       "Fixed: Duplicate book detection now shows consistent results on every scan",
-      "Fixed: Search bar in the library is now always clickable and typeable",
-      "Fixed: Challenges book search now correctly shows your library (was always empty after the storage migration)",
-      "Fixed: Add to Challenge button on book pages now works correctly",
-      "Fixed: Mac window drag now works from the sidebar header area"
+      "Fixed: Search bar in the library is now always clickable and typeable"
     ]
   },
   {
