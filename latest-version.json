@@ -1,5 +1,8 @@
 {
   "version": "0.1.4",
-  "url": "https://github.com/iambookish/readwisp-mac-sign/releases/latest",
+  "url": "https://drive.google.com/drive/folders/1cok5jgnPCMEApdXjXvtowDPJW6HLX2Ae",
+  "downloadUrlWin": "https://drive.google.com/uc?export=download&id=1JdXgBB1sg_Pl5TrJwulPoIh1V5KzRYPZ",
+  "downloadUrlMac": "https://drive.google.com/uc?export=download&id=1AnSIEy5She_OUWW8SZxuDdkPrOqx78WE",
+  "downloadUrlMacArm64": "https://drive.google.com/uc?export=download&id=19Y-FqKPuXboOGmG63uRfqzZjBZW7nJuU",
   "notes": "Bug fixes and new features"
 }
