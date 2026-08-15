@@ -1,5 +1,21 @@
 [
   {
+    "version": "1.5",
+    "date": "2026-08-15",
+    "changes": [
+      "Book Boxes & Special Editions — track subscriptions, deliveries, special-edition purchases, condition, signed copies, extras, collector notes, and spending in one collector hub.",
+      "Collector lists — Subscriptions and Special Editions now have cover-aware list views with search, filters, and sorting to make a growing collection easier to browse.",
+      "Collector Details on Book Detail — link collector records to a library book and see its editions and purchase details in one place.",
+      "Default currency — choose your preferred currency in Settings → General; new collector records use it automatically.",
+      "Better DNF tracking — record Date Stopped and Pages Read; Readwisp calculates DNF progress automatically from the book’s total page count.",
+      "Library page-length tools — filter by Short, Medium, Long, or Epic reads, and sort by Page Length.",
+      "Faster book entry — Author suggestions now reuse names already in your library, and you can save reusable custom Source and Discovery options.",
+      "More reliable organization — tags stay consistent across Bulk Edit, Book Detail, and Edit Book; arrow keys now work in tag suggestion lists.",
+      "Shelves fixes — all active Library filters now work in Shelves view, and shelf cards have a direct Owned toggle.",
+      "Reading-status polish — Want to Read and Re-reading labels render correctly across Library views."
+    ]
+  },
+  {
     "version": "1.4",
     "date": "2026-08-03",
     "changes": [
