@@ -13,9 +13,11 @@
       "Duplicate Book — create another edition from Book Detail without retyping shared metadata; reading progress, ratings, dates, notes, cover, and other entry-specific details are cleared for the new copy.",
       "Full card covers — Cards view now shows the complete book cover rather than cropping the top and bottom.",
       "Better DNF tracking — record Date Stopped and Pages Read; Readwisp calculates DNF progress automatically from the book’s total page count.",
+      "Spice Rating on Book Detail — saved Spice Ratings now appear in Details with chili markers and a clear 1–5 value.",
       "Library page-length tools — filter by Short, Medium, Long, or Epic reads, and sort by Page Length.",
       "Faster book entry — Author suggestions reuse names already in your library, and custom Source and Discovery options can be saved and reused from Add Book or Edit Book.",
-      "More reliable organization — tags stay consistent across Bulk Edit, Book Detail, and Edit Book; arrow keys now work in tag suggestion lists.",
+      "Smarter tag autocomplete — tags stay consistent across Bulk Edit, Book Detail, and Edit Book. Arrow keys navigate suggestions, while Enter saves the exact text you typed unless you deliberately select a suggestion; this works for genres, tags, tropes, and content warnings.",
+      "Challenge goal typing — Book Count, Pages/Hours, and Genre/Tag target fields now accept direct numeric entry instead of relying on spinner arrows.",
       "Shelves fixes — all active Library filters now work in Shelves view, and shelf cards have a direct Owned toggle.",
       "Reading-status polish — Want to Read and Re-reading labels render correctly across Library views."
     ]
