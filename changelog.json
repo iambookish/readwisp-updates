@@ -1,25 +1,25 @@
 [
   {
     "version": "1.5",
-    "date": "2026-08-16",
+    "date": "2026-08-20",
     "changes": [
       "Book Boxes & Special Editions — track subscriptions, deliveries, special-edition purchases, condition, signed copies, extras, collector notes, and yearly spending in one collector hub.",
       "Collector list tools — Subscriptions and Special Editions include compact, cover-aware lists with search, filters, and sorting for a growing collection.",
       "Collector Details on Book Detail — link collector records to a library book and see its edition and purchase details in one place.",
       "Special Editions Library view — use the new monochrome ✦ view between Shelves and Owned to see every collector-linked book together.",
-      "Collector markers and duplicate protection — collector-linked books show a small ✦ on their Library card, and the duplicate review marks collector editions and leaves them unselected for cleanup by default.",
-      "Subscription calendar pickers — choose Next Charge and Expected Delivery dates from calendar controls instead of typing dates manually.",
-      "Default currency — choose your preferred currency in Settings → General Preferences; new collector records use it automatically.",
       "Duplicate Book — create another edition from Book Detail without retyping shared metadata; reading progress, ratings, dates, notes, cover, and other entry-specific details are cleared for the new copy.",
-      "Full card covers — Cards view now shows the complete book cover rather than cropping the top and bottom.",
-      "Better DNF tracking — record Date Stopped and Pages Read; Readwisp calculates DNF progress automatically from the book’s total page count.",
-      "Spice Rating on Book Detail — saved Spice Ratings now appear in Details with chili markers and a clear 1–5 value.",
-      "Library page-length tools — filter by Short, Medium, Long, or Epic reads, and sort by Page Length.",
-      "Faster book entry — Author suggestions reuse names already in your library, and custom Source and Discovery options can be saved and reused from Add Book or Edit Book.",
+      "Upcoming Releases — manually plan anticipated titles with calendar covers, year controls, links, list management, and a release-day handoff into Want to Read.",
+      "Budget — review book purchases, Book Box charges, active subscriptions, and annual spending breakdowns in your selected default currency.",
+      "Borrowed Books — record loans, lenders, due dates, return status, optional covers, and only the fees you choose to enter; pick an existing Library book when available.",
+      "Reading Calendar — see cover-based reading history, log first reads and re-reads from a day, edit or clear individual intervals, browse by year, and optionally show finished-book ratings.",
+      "Feature Toggles — hide any optional page you do not use, including Book Memory, Journal, Quotes, Re-Read Radar, Challenges, Book Boxes, Upcoming Releases, Budget, and Borrowed Books.",
+      "More inclusive and flexible book entry — searchable Narrators, Translator and nonfiction-friendly POV fields, audiobook-aware length and DNF tracking, and an expanded built-in tag pack for LGBTQIA+, BIPOC/POC, Own Voices, activism, and related themes.",
+      "Bingo starter packs — begin a Bingo challenge from editable examples with labelled inspiration links and square, readable prompt cells.",
       "Smarter tag autocomplete — tags stay consistent across Bulk Edit, Book Detail, and Edit Book. Arrow keys navigate suggestions, while Enter saves the exact text you typed unless you deliberately select a suggestion; this works for genres, tags, tropes, and content warnings.",
-      "Challenge goal typing — Book Count, Pages/Hours, and Genre/Tag target fields now accept direct numeric entry instead of relying on spinner arrows.",
-      "Shelves fixes — all active Library filters now work in Shelves view, and shelf cards have a direct Owned toggle.",
-      "Reading-status polish — Want to Read and Re-reading labels render correctly across Library views."
+      "Faster book entry — Author suggestions reuse names already in your library, and custom Source and Discovery options can be saved and reused from Add Book or Edit Book.",
+      "Better library tools — full Cards-view covers, page-length filters and sorting, correct reading-status labels, direct shelf opening, and collector-aware duplicate review.",
+      "Better DNF and detail tracking — record Date Stopped and Pages Read with automatic DNF percentage, save Spice Ratings in Book Detail, and return newly added books to their detail page.",
+      "Challenge improvements — type goals directly, edit template challenge titles, choose or clear proof books, and use challenge suggestions that respect relevant prompt rules."
     ]
   },
   {
