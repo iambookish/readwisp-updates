@@ -25,7 +25,12 @@
       "Add a Series — create several books at once with shared author, series, genres, and starting status, while keeping each title, number, and optional cover URL separate and editable.",
       "Challenge Planner — reserve Library books for a challenge before reading, label the prompt they are intended to fulfill, reorder your planned books, and organize challenges with groups and manual order.",
       "Reading Journal dashboard — see total posts, unique books journaled, entry types, and latest activity at the top of the Journal page.",
-      "Start Here guide — a new Help topic introduces Home customization, Library views, settings and Feature Toggles, TBR Randomizer, Book Boxes, and backups."
+      "Start Here guide — a new Help topic introduces Home customization, Library views, settings and Feature Toggles, TBR Randomizer, Book Boxes, and backups.",
+      "Embedded Challenge Planning — plan books directly inside the specific challenge they are intended for; planning keeps reading status unchanged and does not complete a prompt.",
+      "Bingo planning and re-picking — choose an existing Bingo tile from a dropdown or prompt grid, reserve only one book per tile, see the assigned prompt on the reserved book, and re-pick through a compact Library-book dropdown.",
+      "Reading Journal quote attribution — the em dash is now fixed in the entry form, so you only type the chapter or character.",
+      "Add/Edit Book search cleanup — clearing a Title Search query immediately closes and clears its result cards.",
+      "Home recommendation stability — Books You Might Enjoy now repairs its own malformed saved widget layout without requiring a full Home reset."
     ]
   },
   {
