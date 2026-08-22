@@ -19,7 +19,13 @@
       "Faster book entry — Author suggestions reuse names already in your library, and custom Source and Discovery options can be saved and reused from Add Book or Edit Book.",
       "Better library tools — full Cards-view covers, page-length filters and sorting, correct reading-status labels, direct shelf opening, and collector-aware duplicate review.",
       "Better DNF and detail tracking — record Date Stopped and Pages Read with automatic DNF percentage, save Spice Ratings in Book Detail, and return newly added books to their detail page.",
-      "Challenge improvements — type goals directly, edit template challenge titles, choose or clear proof books, and use challenge suggestions that respect relevant prompt rules."
+      "Challenge improvements — type goals directly, edit template challenge titles, choose or clear proof books, and use challenge suggestions that respect relevant prompt rules.",
+      "Book Detail quick actions — see an Owned label beside the book’s key status details and change reading status directly from Book Detail; Library now keeps the current view name visible.",
+      "Nonfiction-friendly Book Memory — choose Fiction, Nonfiction, or automatic prompt matching in Add/Edit Book; nonfiction prompts focus on ideas, people, evidence, context, and takeaways.",
+      "Add a Series — create several books at once with shared author, series, genres, and starting status, while keeping each title, number, and optional cover URL separate and editable.",
+      "Challenge Planner — reserve Library books for a challenge before reading, label the prompt they are intended to fulfill, reorder your planned books, and organize challenges with groups and manual order.",
+      "Reading Journal dashboard — see total posts, unique books journaled, entry types, and latest activity at the top of the Journal page.",
+      "Start Here guide — a new Help topic introduces Home customization, Library views, settings and Feature Toggles, TBR Randomizer, Book Boxes, and backups."
     ]
   },
   {
