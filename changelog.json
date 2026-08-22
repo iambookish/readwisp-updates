@@ -30,7 +30,9 @@
       "Bingo planning and re-picking — choose an existing Bingo tile from a dropdown or prompt grid, reserve only one book per tile, see the assigned prompt on the reserved book, and re-pick through a compact Library-book dropdown.",
       "Reading Journal quote attribution — the em dash is now fixed in the entry form, so you only type the chapter or character.",
       "Add/Edit Book search cleanup — clearing a Title Search query immediately closes and clears its result cards.",
-      "Home recommendation stability — Books You Might Enjoy now repairs its own malformed saved widget layout without requiring a full Home reset."
+      "Home recommendation stability — Books You Might Enjoy now repairs its own malformed saved widget layout without requiring a full Home reset.",
+      "Challenge organization — use ↕ Organize on the Challenges page to group related challenges and set their display order without changing progress, proof books, or planned books.",
+      "Saved-cover recovery — Library and Book Detail now use an ISBN cover fallback when a saved cover is empty or its remote image fails, while preserving the cover URL you originally saved."
     ]
   },
   {
